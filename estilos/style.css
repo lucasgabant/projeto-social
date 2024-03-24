@@ -27,5 +27,5 @@ section#telefone {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 3111px;
-    background: url("../imagens/frame-iphone.png") center center no-repeat fixed;
+    background: url("../imagens/frame-iphone.png") center center no-repeat;
 }
